@@ -2,7 +2,9 @@
 
 namespace App\View\Components;
 
-use Illuminate\View\{Component, View};
+use Illuminate\View\Component;
+use Illuminate\Contracts\View\View;
+
 
 class GuestLayout extends Component
 {
