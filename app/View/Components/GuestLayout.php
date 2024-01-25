@@ -3,7 +3,8 @@
 namespace App\View\Components;
 
 use Illuminate\View\Component;
-use Illuminate\View\View;
+use Illuminate\Contracts\View\View;
+
 
 class GuestLayout extends Component
 {
